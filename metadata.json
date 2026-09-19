@@ -1,0 +1,6 @@
+{
+  "name": "EduGrade",
+  "description": "Interactive learning and mock exam platform for 8th, 9th, and 10th grade students with multi-role dashboards, real-time notifications, secure messaging, and learning materials repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
